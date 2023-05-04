@@ -4,4 +4,4 @@ permalink: /
 layout: default
 ---
 
-# Moje dokumentace
+# Moje dokumentacion
