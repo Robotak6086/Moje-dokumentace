@@ -1,0 +1,2 @@
+- Obecné Nastavení
+- [Nastavení účtování](/Moje-dokumentace/Nastaven%C3%AD%20%C3%BA%C4%8Dtov%C3%A1n%C3%AD.md)
