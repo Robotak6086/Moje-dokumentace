@@ -7,3 +7,5 @@ layout: default
 # Autopůjčovna
 ## [Nastavení autopůjčovny] ()
 
+![<Tlacitko na odeslani dokumentu emailem>](</Moje-dokumentace/Picture/email_vypujcka.JPG>)
+
