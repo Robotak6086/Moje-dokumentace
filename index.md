@@ -5,4 +5,5 @@ layout: default
 ---
 
 # Autopůjčovna
+[Nastavení autopůjčovny] ()
 
