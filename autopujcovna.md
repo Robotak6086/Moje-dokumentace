@@ -1,2 +1,40 @@
-- Obecné Nastavení
+# Obsah
+- Nastavení číselníků
+  - Nastavení autopůjčovny (API Rent a Car Setup (4027400)
+  - Ceny paliv
+  - Záložka Obecné
+  - Záložka Číslování
+  - Záložka Dimenze
+  - Záložka Smlouva
+  - Záložka Obrázek
+- Nastavení obecného účtování autopůjčovny (Rent a car posting Setup (4027419)
+  - Záložka Obecné (General)
+  - Záložka Autopůjčovna (Car Rental)
+- Nastavení cenniků
+  - Tarifní skupiny (API Tarif Group (4027405))
+  - Tarifní podskupiny (API Tariff Subgroup (4027404))
+  - Tarifní ceníky (API Tariff Pricelist (4027402))
+- Parkovište (API Parking Place (4027401))
+- Vozy autopujčovny (Rent Cars)
+  - Přehled vozů autopůjčovny (Rent a Car Car List)
+- Karta vozu autopůjčovny (API Rent Car (4027415))
+  - Záložka Obecné (General)
+- Kontrola vyplnění polí při přechodu stavu kontraktu na kartě API Reservation Card (4027406)
+- Registrování závazné rezervace (registration of register reservation)
+- Vytvoření výpůjčky z Karty rezervace (Creating a rent from the reservation card)
+- Výpůjčka (rent)
+- Vytvoření Nové výpůjčky bez rezervace (Creation OF a new rent without reservation)
+- Vytvoření Nové výpůjčky tlačítkem Nový (Creating a new rent with the button New)
+- Vytvoření Nové výpůjčky ze seznamu vytíženosti vozidel (Creation of a new rent from the vehicle utilization list)
+- Výpujčka vozu
+- Popis karty výpůjčky
+- Funkce z výpůjčky
+- Tisk dokladů k výpůjče
+- Smlouva o pronájmu
+- Předávací protokol
+- Fakturácia
+- Nastavenie fakturácie
+- Karta Vypůjčky
+- Fakturácia
+
 - [Nastavení účtování](/Moje-dokumentace/Nastaven%C3%AD%20%C3%BA%C4%8Dtov%C3%A1n%C3%AD.md)
